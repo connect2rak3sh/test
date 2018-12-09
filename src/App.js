@@ -1,14 +1,11 @@
 import React, { Component } from 'react'
-// import Test from './Test'
 import { ToastContainer, toast } from 'react-toastify';
 import Button from '@material-ui/core/Button';
-
 import 'react-toastify/dist/ReactToastify.min.css'
 import { Chip, Avatar } from 'material-ui';
-// import DoneIcon from '@material-ui/icons/Done';
 
-// rcc
 
+// Hello world
 
 class App extends Component {
   constructor(props) {
